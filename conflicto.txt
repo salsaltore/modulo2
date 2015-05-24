@@ -1,1 +1,3 @@
 En este modulo vamos a tratar la resolucion de conflictos. Para ello vamos a crear este archivo en mi repositorio local primero y posteriormente lo modificaremos en el repositorio remoto, como por ejemplo, desde la web de github.
+
+Ahora modificamos el archivo desde el repositorio local para posteriormente resolver el conflicto posteriormente.
