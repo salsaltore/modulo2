@@ -1,1 +1,3 @@
 Creamos el fichero conflicto para la resolucion de conflictos del modulo 3.
+
+Modifico el archivo ficheroConflicto desde el repositorio local. Ahora hacemos el commit y hacemos un pull posterior para que surja el conflicto.
